@@ -25,9 +25,14 @@ npm i
 This app was created with the help of a source code by [maurya](https://github.com/).
 
 # Link
-The demo video representation of the app can be found [here]().
+The demo video representation of the app can be found [here](https://drive.google.com/file/d/1OyF52dQNfukI3dCL8tybuNU39xNEABxq/view).
 
 # Screenshots
+Screenshot of the app
+![alt text](./assets/images/hp1.png)
+
+Screenshot of the remote database
+![alt text](./assets/images/db1.png)
 
 # Contributors
 Anyone with a github account can fork this repo and contribute to it.
